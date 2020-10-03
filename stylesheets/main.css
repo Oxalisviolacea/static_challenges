@@ -1,0 +1,77 @@
+body {
+  background-color: white;
+  font-family: Arial;
+}
+
+header {
+  background-color: FireBrick;
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 40px;
+  font-weight: bold;
+  float: left;
+  width: 85%;
+}
+
+header a {
+  text-align: right;
+  color: white;
+  font-size: 20px;
+  font-weight: normal;
+  float: right;
+  width: 15%;
+}
+
+nav {
+  background-color: DarkSlateGrey;
+  text-align: right;
+  padding: 20px;
+}
+nav a {
+  color: white;
+  padding: 20px;
+}
+
+section {
+  background-color: white;
+  width: 68.2%;
+  float: left;
+}
+
+section img {
+  padding: 20px;
+  padding-bottom: 0px;
+}
+
+section h2 {
+  padding: 20px;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+section p {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  float: right;
+  margin-left: 15px;
+  font-style: italic;
+  background-color: white;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+footer {
+  background-color: DarkSlateGrey;
+  color: white:
+  padding: 20px
+}
